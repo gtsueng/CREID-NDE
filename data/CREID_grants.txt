@@ -1,0 +1,10 @@
+CREID-ESP	 Washington University in St. Louis 	David Wang	U01AI151810-02
+WARN-ID	 Scripps 	Kristian Andersen	1U01AI151812-01
+UWARN	 University of Washington 	Wesley Van Voorhis	1U01AI151698-01
+CREID-ECA	 Washington State University 	Kariuki Njenga	1U01AI151799-01
+CREATE-NEO	" University of TX Medical Branch, Galveston "	Nikos Vasilakis	1U01AI151807-01
+WAC-EID	" University of TX Medical Branch, Galveston "	Scott Weaver	1U01AI151801-01
+EID-SEARCH	 EcoHealth Alliance 	Peter Daszak	1U01AI151797-01
+EEIDI	 UC Davis 	Christine Johnson	1U01AI151814-01
+PICREID	 Institut Pasteur 	Anavaj Sakuntabhai	1U01AI151758-01
+A2CARES	 UC Berkeley 	Eva Harris	1U01AI151788-01
